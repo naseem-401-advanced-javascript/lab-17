@@ -1,6 +1,6 @@
 # LAB - Class 17
 
-### Author: Naseem
+### Author: Naseem & Ibrahim 
 
 ### Links and Resources
 
@@ -18,9 +18,6 @@ npm i jest eslint
 
 - How do you run tests?
      - 'npm test'
-- Any tests of note?
-     - jest --verbose --coverage
-- Describe any tests that you did not complete, skipped, etc
 
 #### UML
-![White-Board](assets/image.jpg)
+![](assest/111.jpg)
