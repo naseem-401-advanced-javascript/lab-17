@@ -1,1 +1,26 @@
-# lab-17
+# LAB - Class 17
+
+### Author: Naseem
+
+### Links and Resources
+
+- [submission PR](https://github.com/naseem-401-advanced-javascript/lab-17/tree/class17)
+
+
+### Setup
+npm i jest eslint
+
+#### How to initialize/run your application (where applicable)
+
+- `npm test`
+
+#### Tests
+
+- How do you run tests?
+     - 'npm test'
+- Any tests of note?
+     - jest --verbose --coverage
+- Describe any tests that you did not complete, skipped, etc
+
+#### UML
+![White-Board](assets/image.jpg)
